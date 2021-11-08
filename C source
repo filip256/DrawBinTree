@@ -12,6 +12,8 @@
 // Example input:
 //     v[1][3]![2]PQ
 
+// Arrows can be used to move the graph around.
+
 
 
 #include <SFML/Graphics.hpp>
